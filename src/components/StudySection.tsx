@@ -1,6 +1,9 @@
 // import { motion } from 'framer-motion';
 // import { useState } from 'react';
 
+const StudySection = () => {
+  
+}
 // const StudySection = () => {
 //   const [activeCard, setActiveCard] = useState<string | null>(null);
 

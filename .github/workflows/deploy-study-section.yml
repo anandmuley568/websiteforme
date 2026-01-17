@@ -3,7 +3,7 @@ name: Deploy Study Section to GitHub Pages
 on:
   push:
     branches:
-      - study-section
+      - main
   workflow_dispatch:
 
 permissions:
